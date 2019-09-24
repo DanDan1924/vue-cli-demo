@@ -28,4 +28,7 @@ npm test
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-详细资料可查看文档https://blog.csdn.net/dandan1924/article/details/101213890
+
+
+
+## 详细资料可查看文档https://blog.csdn.net/dandan1924/article/details/101213890
